@@ -86,3 +86,11 @@
     justify-content: center;
     
    }
+   .win{
+    width:500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   }
